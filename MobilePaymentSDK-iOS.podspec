@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 
-  s.vendored_frameworks = 'MobilePaymentSDK.framework', 'Frameworks/ThreeDS_SDK.xcframework'
-  # s.dependency 'ThreeDS_SDK'
+  s.vendored_frameworks = 'MobilePaymentSDK.framework'
+  s.dependency 'ThreeDS_SDK'
 end
