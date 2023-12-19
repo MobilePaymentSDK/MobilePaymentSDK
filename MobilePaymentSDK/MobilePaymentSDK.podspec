@@ -1,0 +1,24 @@
+#
+# Be sure to run `pod lib lint MobilePaymentSDK.podspec' to ensure this is a
+# valid spec before submitting.
+#
+# Any lines starting with a # are optional, but their use is encouraged
+# To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
+#
+
+Pod::Spec.new do |s|
+  s.name             = 'MobilePaymentSDK'
+  s.version          = '1.0.0'
+  s.summary          = 'Payment for your App.'
+  s.homepage         = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK'
+  s.license          = "PROPRIETARY"
+  s.author           = { 'MobilePaymentSDK' => 'mobilesdk@payone.io' }
+  s.source           = { :git => 'https://github.com/MobilePaymentSDK/MobilePaymentSDK.git', :tag => s.version.to_s }
+  s.swift_version      = "5.9"
+  s.ios.deployment_target = '10.0'
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5' }
+
+  s.ios.vendored_frameworks = 'MobilePaymentSDK.framework'
+  s.vendored_frameworks = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/main/MobilePaymentSDK.framework.zip'
+  s.dependency 'ThreeDS_SDK'
+end
