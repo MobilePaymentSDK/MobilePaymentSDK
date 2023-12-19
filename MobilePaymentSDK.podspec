@@ -12,13 +12,13 @@ Pod::Spec.new do |s|
   s.summary          = 'Payment for your App.'
   s.homepage         = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK'
   s.license          = "PROPRIETARY"
-  s.author           = { 'MobilePaymentSDK' => 'mobilesdk@payone.io' }
+  s.author           = "MobilePaymentSDK"
   s.source           = { :git => 'https://github.com/MobilePaymentSDK/MobilePaymentSDK.git', :tag => s.version.to_s }
   s.swift_version      = "5.9"
   s.ios.deployment_target = '10.0'
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5' }
 
   s.ios.vendored_frameworks = 'MobilePaymentSDK.framework'
-  s.vendored_frameworks = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/main/MobilePaymentSDK.framework.zip'
+  # s.vendored_frameworks = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/'{s.version.to_s}'/MobilePaymentSDK.framework.zip'
   s.dependency 'ThreeDS_SDK'
 end
