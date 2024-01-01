@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
 
 
   s.vendored_frameworks = 'MobilePaymentSDK.framework'
-  s.dependency 'ThreeDS_SDK'
+  s.dependency 'ThreeDS_SDK', '~> 2.4.00', :source => 'https://github.com/ios-3ds-sdk/Specs.git'
 end
