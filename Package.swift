@@ -6,7 +6,7 @@ let package = Package(
     products: [
         .library(
             name: "MobilePaymentSDK",
-            targets: ["MobilePaymentSDK", "PSPDFKitUI"]),
+            targets: ["MobilePaymentSDK", "MobilePaymentSDK"]),
     ],
     targets: [
         .binaryTarget(
