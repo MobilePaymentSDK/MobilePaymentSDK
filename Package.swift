@@ -1,20 +1,17 @@
-// swift-tools-version:5.5
-
+// swift-tools-version:5.6
 import PackageDescription
 
 let package = Package(
     name: "MobilePaymentSDK",
     products: [
-        // Products define the executables and libraries produced by a package, and make them visible to other packages.
         .library(
             name: "MobilePaymentSDK",
-            targets: ["MobilePaymentSDK"]),
+            targets: ["MobilePaymentSDK", "PSPDFKitUI"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package. A target can define a module or a test suite.
-        // Targets can depend on other targets in this package, and on products in packages which this package depends on.
-        .target(
+        .binaryTarget(
             name: "MobilePaymentSDK",
-            dependencies: [])
+            url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/main/MobilePaymentSDK.framework.zip",
+            checksum: "6f721fa227ac184ad2ad3ffc69070d26061fba7dabe19c5b6e38d290a886db83"),
     ]
 )
