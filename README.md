@@ -1,6 +1,6 @@
 # MobilePaymentSDK for Android
 
-a.	In settings.gradle between the repositories brackets add the Github maven for the package
+a.	In `settings.gradle` between the repositories brackets add the Github maven for the package
 
 ```
 maven{
@@ -12,7 +12,7 @@ maven{
 }
 ```
 
-b.	In build.gradle (app) add and sync
+b.	In `build.gradle` (app) add and sync
 
 > implementation files('libs/ payment_sdk-release.aar')
 
