@@ -7,4 +7,5 @@ Install this framwork using Cocoapods:
 Then run in terminal:
 > pod intall
 
+<br/>
 > We will add SPM support soon
