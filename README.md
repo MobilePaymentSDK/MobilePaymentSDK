@@ -1,1 +1,1 @@
-# MobilePaymentSDK
+# MobilePaymentSDK for Android
