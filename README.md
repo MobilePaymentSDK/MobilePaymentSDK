@@ -2,7 +2,7 @@
 
 Install this framwork using Cocoapods:
 
-> pod 'MobilePaymentSDK-iOS'
+```pod 'MobilePaymentSDK-iOS'```
 
 Then run in terminal:
 > pod intall
