@@ -1,35 +1,10 @@
-# MobilePaymentSDK for Android
+# MobilePaymentSDK for iOS
 
-a.	In `settings.gradle` between the repositories brackets add the Github maven for the package
+Install this framwork using Cocoapods:
 
-```
-maven{
-    url uri("https://maven.pkg.github.com/MobilePaymentSDK/MobilePaymentSDK-Android")
-    credentials{
-        username = "GITHUB_USERNAME"
-        password= "GITHUB_TOKEN "
-    }
-}
-```
+> pod 'MobilePaymentSDK-iOS'
 
-b.	In `build.gradle` (app) add and sync
+Then run in terminal:
+> pod intall
 
-> implementation files('libs/ payment_sdk-release.aar')
-
-Note:
-
-maybe you have to exclude some packages that will duplicate the
-packages mentioned in you application also used in our AAR
-file.
-
-Example:
-
-```
-implementation('com.PaymentSDK:paymentsdk:1.0.1'){
-    configurations {
-        implementation.exclude module: 'lifecycle-viewmodel-ktx'
-        implementation.exclude group: 'org.jetbrains.kotlin', module :'kotlin-stdlib-jdk8'
-      implementation.exclude group: 'com.google.code.gson', module :'gson'
-    }
-}
-```
+> We will add SPM support soon
