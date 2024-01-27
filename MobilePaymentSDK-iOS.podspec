@@ -18,8 +18,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.vendored_frameworks = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/1.0.1/Sources/MobilePaymentSDK.framework.zip'
 
-
-  s.vendored_frameworks = 'MobilePaymentSDK.framework'
-  s.dependency 'ThreeDS_SDK', '~> 2.4.00', :source => 'https://github.com/ios-3ds-sdk/Specs.git'
 end
