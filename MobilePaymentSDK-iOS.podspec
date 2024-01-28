@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.author           = "MobilePaymentSDK"
   s.source           = { :git => 'https://github.com/MobilePaymentSDK/MobilePaymentSDK.git', :tag => s.version.to_s }
   s.swift_version      = "5.9"
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.vendored_frameworks = 'Sources/MobilePaymentSDK.framework.zip'
