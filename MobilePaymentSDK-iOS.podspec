@@ -17,9 +17,9 @@ s.source           = { :git => 'https://github.com/MobilePaymentSDK/MobilePaymen
 s.swift_version      = "5.9"
 s.ios.deployment_target = '12.0'
 
-s.vendored_frameworks = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/1.0.1/MobilePaymentSDK.framework.zip'
+s.vendored_frameworks = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/1.0.1/MobilePaymentSDK.xcframework.zip'
 s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
-s.ios.vendored_frameworks = 'MobilePaymentSDK.framework'
+s.ios.vendored_frameworks = 'MobilePaymentSDK.xcframework'
 end

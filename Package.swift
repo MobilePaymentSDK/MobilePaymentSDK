@@ -14,12 +14,10 @@ let package = Package(
         ],
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "MobilePaymentSDK",
-            url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/1.0.1/MobilePaymentSDK.framework.zip",
-            checksum: "7d2262e37bcbc89be8db106b36412fb313a2fdbb8996a221074e5e41d7a9e6a6"
+            url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/1.0.1/MobilePaymentSDK.xcframework.zip",
+            checksum: "16430d0d9d5104aa09f28ee90f8db76aaa52a198055a2858766df67942fe135e"
         ),
     ]
 )
