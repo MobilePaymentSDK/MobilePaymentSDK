@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.source = { :http => 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/1.0.1/MobilePaymentSDK.framework.zip' }
+  s.source = { :http => 'https://github.com/MobilePaymentSDK/MobilePaymentSDK/blob/1.0.1/MobilePaymentSDK.framework.zip', :type => 'zip' }
   s.vendored_frameworks = 'MobilePaymentSDK.framework'
 
 end
