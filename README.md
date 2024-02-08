@@ -1,13 +1,22 @@
 # MobilePaymentSDK for iOS
 
-Install this framwork using Cocoapods:
+## Installation
 
-```pod 'MobilePaymentSDK-iOS'```
+### Swift Package Manager
 
-Then run in terminal:
-> pod intall
+The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
 
-<br/>
-<hr/>
+Once you have your Swift package set up, adding MobilePaymentSDK as a dependency is as easy as adding it to the `dependencies` value of your `Package.swift` or the Package list in Xcode.
 
-> We will add SPM support soon
+```swift
+dependencies: [
+    .package(url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK.git", .upToNextMajor(from: "1.0.3"))
+]
+```
+### CocoaPods
+
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate MobilePaymentSDK-iOS into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+pod 'MobilePaymentSDK-iOS
+```
