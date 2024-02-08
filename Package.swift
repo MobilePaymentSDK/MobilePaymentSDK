@@ -15,7 +15,6 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(path: "https://github.com/MobilePaymentSDK/MobilePaymentSDK.git")
     ],
     targets: [
         .binaryTarget(
