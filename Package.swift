@@ -5,13 +5,17 @@ import PackageDescription
 
 let package = Package(
     name: "MobilePaymentSDK",
+    platforms: [
+        .iOS(.v12)
+    ],
     products: [
-        products: [
-            .library(
-                name: "MobilePaymentSDK",
-                targets: ["MobilePaymentSDK"]
-            ),
-        ],
+        .library(
+            name: "MobilePaymentSDK",
+            targets: ["MobilePaymentSDK"]
+        ),
+    ],
+    dependencies: [
+        .package(path: "https://github.com/MobilePaymentSDK/MobilePaymentSDK.git")
     ],
     targets: [
         .binaryTarget(
