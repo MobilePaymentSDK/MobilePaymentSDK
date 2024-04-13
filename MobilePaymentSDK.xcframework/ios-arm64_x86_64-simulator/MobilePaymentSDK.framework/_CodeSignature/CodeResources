@@ -26,11 +26,11 @@
 		</data>
 		<key>CardDetailsContainer.nib</key>
 		<data>
-		PqCqzTfKoVj9lNM5bVS72XFj4Ns=
+		Hh1jCceJZGXOrV+ecyriO322OJg=
 		</data>
 		<key>CardDetailsHalfStack.nib</key>
 		<data>
-		Fts1a09VwqCV73FOxq/pNnGbCnM=
+		Dun/rAUdZ0NA4ONaTp7w1ApQndc=
 		</data>
 		<key>EnterCardDetailsViewController.nib</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dP1L6y4nPJs0u3CjKsfR/tKgzBU=
+		nKmBD6+LDSm34pvvhAAe55+GohU=
 		</data>
 		<key>MobilePaymentExpiryField.nib</key>
 		<data>
-		gXLvik12kqQ7fhf/BsEI+HfDZxI=
+		E9t1SPN5LEZCTeb3TW4ts9FBUVg=
 		</data>
 		<key>MobilePaymentLoaderViewController.nib</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>MobilePaymentTextField.nib</key>
 		<data>
-		s9ZC/XehI6wKV0T9yhTxGc1dLZ4=
+		RyhfCg4+C27K6B4w3b4YD9tZieU=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		LN1JH/62C4a3LFkZZ8iTO7KWP7A=
+		wMEZMQlddo9e/Qk9E2GlV7RAMfM=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qOgKyjC5ZsSkfq9GnAyd+/6ATuQ=
+		5c77cXtTwqrHDSCRzh95pDyIZyg=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		LN1JH/62C4a3LFkZZ8iTO7KWP7A=
+		wMEZMQlddo9e/Qk9E2GlV7RAMfM=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uzV+/F4ZB9q6mwCMajU45Dg4iqc=
+		FDbOvBNPQK2K+Am8c5CFq2/FYew=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -165,7 +165,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			467qIV5Lftt6uLRKc1Sai3SykSM=
+			EJUY9UCCbDDBlf1F0t/jxvWFoIE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -178,7 +178,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qjy1l+LV3PCFt/j3LFg7EKqOWZw=
+			r4y5yS1vTvTfM2IwUflI+o7Jjqo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -196,7 +196,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sP3fHplYyHZcF3hH7tyTEWGRngA=
+			r0th80tIL1a/QqynJxtXpOUw4Tg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -243,14 +243,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3XRllfBIR14u3QVug/tY54duAY0q8v1wq+3SbkpyFds=
+			4RrkgiYFmLz0c/e5eIiWX9mrvhI/vzNkVI7A/bYqoSE=
 			</data>
 		</dict>
 		<key>CardDetailsHalfStack.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cBE4PzTi1D7vAoVkK133BMLwLN1iFMGM0a8nomUYVnw=
+			b5C/ohvWj3NK9HjrHsLR1P7mnvcw19ZjxpJ/Cnw/gfQ=
 			</data>
 		</dict>
 		<key>EnterCardDetailsViewController.nib</key>
@@ -278,7 +278,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GwXhyeS94/Igf/bEeMaQjwm6cRNpfNYaWai1TQXzngI=
+			faS5c0sKFKQyK7AkVXIqsWlF0aAPIb+HyEKWTeGREgs=
 			</data>
 		</dict>
 		<key>MobilePaymentLoaderViewController.nib</key>
@@ -292,14 +292,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8K6HasW+41e9ygfBph8jNZXv4jNDVzuZ+50AK7kKPoQ=
+			yZgslmrqBVunezJcQCzLxr9PEI3k/AbwtygbBt7h4Bg=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			opZ3+gYfYa70PBvr9QdBjtDBmheZsmuE+W7W8jI/JT4=
+			0I269m8l/+Z8ene8hWHH70zwon02TJ7gMpfyGvTVzHc=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -327,14 +327,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			44ru8wfnXgwq1qQaP7M2CmkPRhGNCTTb8vmr8FAlupg=
+			CD87b8drFN16+MEWMHd9Uc1s1ZF8SDWBmKLO1FLkCeI=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			opZ3+gYfYa70PBvr9QdBjtDBmheZsmuE+W7W8jI/JT4=
+			0I269m8l/+Z8ene8hWHH70zwon02TJ7gMpfyGvTVzHc=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -362,7 +362,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gqjFD6IbJbNfIweX3dDQzFc5xnhtfUlFdPKvCsyY89U=
+			ndxqtBQpWQCCiwHUsSOFDJHrjT6tn0jOyf+24je1keA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -469,7 +469,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4GfxgROzbUyiM1SJGvpNtYVSgMhbyEZ7Fib23irKdw0=
+			yER+lzyyEs+WXm0vSd5pr3XmRyFEr+QlT3lNccObjpM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -485,7 +485,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VoXI2VZtjVMqtw4MQAlTPca9ev8gbZaGyiqvlR1fMhE=
+			1ZlxJLPQ+P5FtHwAQnXDuV9QmjVjH9l+X95EUvBiPJA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -503,7 +503,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b1ztcR0fAvIrxLhrlWqE5mRj31189Q3ctixxIS8hbB4=
+			XMnOVyiVjNs8QzleIoVvozgVbF4avFpggToHEojJwhY=
 			</data>
 			<key>optional</key>
 			<true/>
