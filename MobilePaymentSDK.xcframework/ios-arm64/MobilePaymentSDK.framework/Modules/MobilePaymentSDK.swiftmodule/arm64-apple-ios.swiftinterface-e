@@ -37,6 +37,7 @@ import _SwiftConcurrencyShims
   public func getStatus() -> Swift.String?
   public func getStatusDescription() -> Swift.String?
   public func getTransactionId() -> Swift.String?
+  public func getUserSavedCard() -> Swift.Bool?
   @objc deinit
 }
 @objc public enum MobilePaymentSDKPaymentMethod : Swift.Int {
