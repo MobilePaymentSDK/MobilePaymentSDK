@@ -14068,2562 +14068,2562 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2152,
+      "offset": 2110,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2299,
+      "offset": 2257,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2351,
+      "offset": 2309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2877,
+      "offset": 2835,
       "length": 212,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2880,
+      "offset": 2838,
       "length": 5,
       "value": "\"pay\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2898,
+      "offset": 2856,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2981,
+      "offset": 2939,
       "length": 25,
       "value": "\"currency_decimal_format\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3019,
+      "offset": 2977,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3022,
+      "offset": 2980,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3065,
+      "offset": 3023,
       "length": 15,
       "value": "\"currency_code\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3085,
+      "offset": 3043,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3088,
+      "offset": 3046,
       "length": 55,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3222,
+      "offset": 3180,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3407,
+      "offset": 3365,
       "length": 17,
       "value": "\"ic_back_reverse\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3535,
+      "offset": 3493,
       "length": 9,
       "value": "\"ic_back\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3672,
+      "offset": 3630,
       "length": 15,
       "value": "\"Futura-Medium\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3695,
+      "offset": 3653,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3745,
+      "offset": 3703,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3869,
+      "offset": 3827,
       "length": 4,
       "value": "0.46"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3886,
+      "offset": 3844,
       "length": 4,
       "value": "0.99"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3903,
+      "offset": 3861,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3914,
+      "offset": 3872,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4156,
+      "offset": 4114,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4161,
+      "offset": 4119,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4515,
+      "offset": 4473,
       "length": 15,
       "value": "\"ViewDidAppear\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4701,
+      "offset": 4659,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5487,
+      "offset": 5445,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5636,
+      "offset": 5594,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5692,
+      "offset": 5650,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5751,
+      "offset": 5709,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5808,
+      "offset": 5766,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6466,
+      "offset": 6424,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6637,
+      "offset": 6595,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6691,
+      "offset": 6649,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6974,
+      "offset": 6932,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7090,
+      "offset": 7048,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7192,
+      "offset": 7150,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7309,
+      "offset": 7267,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7352,
+      "offset": 7310,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7488,
+      "offset": 7446,
       "length": 35,
       "value": "\"enter_your_name_mentioned_on_card\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7644,
+      "offset": 7602,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7755,
+      "offset": 7713,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7866,
+      "offset": 7824,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8034,
+      "offset": 7992,
       "length": 19,
       "value": "\"enter_card_number\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8193,
+      "offset": 8151,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8344,
+      "offset": 8302,
       "length": 29,
       "value": "\"this_card_number_is_invalid\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8513,
+      "offset": 8471,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8668,
+      "offset": 8626,
       "length": 24,
       "value": "\"enter_card_expiry_date\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8822,
+      "offset": 8780,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8944,
+      "offset": 8902,
       "length": 7,
       "value": "\"MM\/yy\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9122,
+      "offset": 9080,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9308,
+      "offset": 9266,
       "length": 16,
       "value": "\"card_is_expird\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9478,
+      "offset": 9436,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9664,
+      "offset": 9622,
       "length": 21,
       "value": "\"enter_security_code\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9821,
+      "offset": 9779,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9875,
+      "offset": 9833,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9906,
+      "offset": 9864,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9992,
+      "offset": 9950,
       "length": 23,
       "value": "\"invalid_security_code\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10151,
+      "offset": 10109,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10298,
+      "offset": 10256,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10327,
+      "offset": 10285,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10400,
+      "offset": 10358,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10485,
+      "offset": 10443,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10597,
+      "offset": 10555,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10742,
+      "offset": 10700,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10747,
+      "offset": 10705,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10816,
+      "offset": 10774,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10847,
+      "offset": 10805,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10877,
+      "offset": 10835,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10881,
+      "offset": 10839,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10921,
+      "offset": 10879,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10926,
+      "offset": 10884,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11048,
+      "offset": 11006,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11099,
+      "offset": 11057,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11105,
+      "offset": 11063,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11566,
+      "offset": 11524,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11577,
+      "offset": 11535,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11584,
+      "offset": 11542,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11755,
+      "offset": 11713,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11766,
+      "offset": 11724,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11839,
+      "offset": 11797,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11850,
+      "offset": 11808,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11974,
+      "offset": 11932,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12084,
+      "offset": 12042,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13429,
+      "offset": 13387,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 13591,
+      "offset": 13549,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13707,
+      "offset": 13665,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13748,
+      "offset": 13706,
       "length": 82,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 13775,
+      "offset": 13733,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13825,
+      "offset": 13783,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13984,
+      "offset": 13942,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14025,
+      "offset": 13983,
       "length": 83,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 14052,
+      "offset": 14010,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14102,
+      "offset": 14060,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 14264,
+      "offset": 14222,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14426,
+      "offset": 14384,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14663,
+      "offset": 14621,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14708,
+      "offset": 14666,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14889,
+      "offset": 14847,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15097,
+      "offset": 15055,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15211,
+      "offset": 15169,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15252,
+      "offset": 15210,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15725,
+      "offset": 15683,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15770,
+      "offset": 15728,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15910,
+      "offset": 15868,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16053,
+      "offset": 16011,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16196,
+      "offset": 16154,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16237,
+      "offset": 16195,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16699,
+      "offset": 16657,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16789,
+      "offset": 16747,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17733,
+      "offset": 17691,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17866,
+      "offset": 17824,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17907,
+      "offset": 17865,
       "length": 82,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 17934,
+      "offset": 17892,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17984,
+      "offset": 17942,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 18161,
+      "offset": 18119,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18352,
+      "offset": 18310,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18393,
+      "offset": 18351,
       "length": 83,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 18420,
+      "offset": 18378,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18470,
+      "offset": 18428,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 18648,
+      "offset": 18606,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18858,
+      "offset": 18816,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19178,
+      "offset": 19136,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19223,
+      "offset": 19181,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19436,
+      "offset": 19394,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19692,
+      "offset": 19650,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19875,
+      "offset": 19833,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19916,
+      "offset": 19874,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20439,
+      "offset": 20397,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20484,
+      "offset": 20442,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20640,
+      "offset": 20598,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20835,
+      "offset": 20793,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21010,
+      "offset": 20968,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21051,
+      "offset": 21009,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21884,
+      "offset": 21842,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21994,
+      "offset": 21952,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22035,
+      "offset": 21993,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22374,
+      "offset": 22332,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22419,
+      "offset": 22377,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22555,
+      "offset": 22513,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22739,
+      "offset": 22697,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22874,
+      "offset": 22832,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22915,
+      "offset": 22873,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23682,
+      "offset": 23640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23791,
+      "offset": 23749,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23832,
+      "offset": 23790,
       "length": 82,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 23859,
+      "offset": 23817,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23909,
+      "offset": 23867,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 24062,
+      "offset": 24020,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24205,
+      "offset": 24163,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24246,
+      "offset": 24204,
       "length": 85,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 24274,
+      "offset": 24232,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24325,
+      "offset": 24283,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 24479,
+      "offset": 24437,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24617,
+      "offset": 24575,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25000,
+      "offset": 24958,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25110,
+      "offset": 25068,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25151,
+      "offset": 25109,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25490,
+      "offset": 25448,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25535,
+      "offset": 25493,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25671,
+      "offset": 25629,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25855,
+      "offset": 25813,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25990,
+      "offset": 25948,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 26031,
+      "offset": 25989,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26396,
+      "offset": 26354,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26592,
+      "offset": 26550,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 26770,
+      "offset": 26728,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 26791,
+      "offset": 26749,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 26832,
+      "offset": 26790,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 26986,
+      "offset": 26944,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27523,
+      "offset": 27481,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27564,
+      "offset": 27522,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27653,
+      "offset": 27611,
       "length": 20,
       "value": "\"payment_successful\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27920,
+      "offset": 27878,
       "length": 25,
       "value": "\"your_payment_has_failed\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28303,
+      "offset": 28261,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28753,
+      "offset": 28711,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28922,
+      "offset": 28880,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 29534,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29575,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 29952,
+      "offset": 29911,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30081,
+      "offset": 30040,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30267,
+      "offset": 30226,
       "length": 26,
       "value": "\"card_holder_name_tooltip\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30433,
+      "offset": 30392,
       "length": 21,
       "value": "\"card_number_tooltip\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30590,
+      "offset": 30549,
       "length": 23,
       "value": "\"security_code_tooltip\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 30730,
+      "offset": 30689,
       "length": 21,
       "value": "\"expiry_date_tooltip\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31205,
+      "offset": 31164,
       "length": 11,
       "value": "\"textColor\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 31375,
+      "offset": 31334,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31418,
+      "offset": 31377,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31471,
+      "offset": 31430,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 31588,
+      "offset": 31547,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31631,
+      "offset": 31590,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31684,
+      "offset": 31643,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31755,
+      "offset": 31714,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 31813,
+      "offset": 31772,
       "length": 6,
       "value": "\"Done\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32037,
+      "offset": 31996,
       "length": 25,
       "value": "\"2018-12-24 18:00:00 UTC\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32134,
+      "offset": 32093,
       "length": 27,
       "value": "\"yyyy-MM-dd HH:mm:ss 'UTC'\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32288,
+      "offset": 32247,
       "length": 6,
       "value": "\"yyyy\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32397,
+      "offset": 32356,
       "length": 4,
       "value": "\"MM\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32801,
+      "offset": 32760,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 32918,
+      "offset": 32877,
       "length": 25,
       "value": "\"currency_decimal_format\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 32956,
+      "offset": 32915,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33716,
+      "offset": 33675,
       "length": 15,
       "value": "\"currency_code\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33747,
+      "offset": 33706,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33826,
+      "offset": 33785,
       "length": 9,
       "value": "\"alpha-2\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33851,
+      "offset": 33810,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 33939,
+      "offset": 33898,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34467,
+      "offset": 34426,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34568,
+      "offset": 34527,
       "length": 53,
       "value": "\"Can make apple payment returns false, can't proceed\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34814,
+      "offset": 34773,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34889,
+      "offset": 34848,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34900,
+      "offset": 34859,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34945,
+      "offset": 34904,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34996,
+      "offset": 34955,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35237,
+      "offset": 35196,
       "length": 6,
       "value": "\"VISA\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35383,
+      "offset": 35342,
       "length": 6,
       "value": "\"AMEX\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35529,
+      "offset": 35488,
       "length": 8,
       "value": "\"DINERS\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35679,
+      "offset": 35638,
       "length": 7,
       "value": "\"UNION\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35830,
+      "offset": 35789,
       "length": 12,
       "value": "\"MASTERCARD\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35988,
+      "offset": 35947,
       "length": 5,
       "value": "\"JCB\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 36132,
+      "offset": 36091,
       "length": 11,
       "value": "\"DISCOVERY\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 36288,
+      "offset": 36247,
       "length": 11,
       "value": "\"MADA VISA\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 36301,
+      "offset": 36260,
       "length": 13,
       "value": "\"MADA MASTER\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36888,
+      "offset": 36847,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 36990,
+      "offset": 36949,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 37031,
+      "offset": 36990,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 37478,
+      "offset": 37437,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 37523,
+      "offset": 37482,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 37568,
+      "offset": 37527,
       "length": 21,
       "value": "\"communication_error\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 38356,
+      "offset": 38315,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38457,
+      "offset": 38416,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38572,
+      "offset": 38531,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38581,
+      "offset": 38540,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38699,
+      "offset": 38658,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38708,
+      "offset": 38667,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38733,
+      "offset": 38692,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38768,
+      "offset": 38727,
       "length": 11,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38778,
+      "offset": 38737,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38820,
+      "offset": 38779,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38828,
+      "offset": 38787,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 38877,
+      "offset": 38836,
       "length": 4,
       "value": "\"20\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38903,
+      "offset": 38862,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38932,
+      "offset": 38891,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39024,
+      "offset": 38983,
       "length": 30,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39039,
+      "offset": 38998,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39053,
+      "offset": 39012,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39178,
+      "offset": 39137,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39304,
+      "offset": 39263,
       "length": 35,
       "value": "\"enter_your_name_mentioned_on_card\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39448,
+      "offset": 39407,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39647,
+      "offset": 39606,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39764,
+      "offset": 39723,
       "length": 24,
       "value": "\"enter_card_expiry_date\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 39902,
+      "offset": 39861,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40115,
+      "offset": 40074,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40144,
+      "offset": 40103,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40155,
+      "offset": 40114,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40287,
+      "offset": 40246,
       "length": 19,
       "value": "\"enter_card_number\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40509,
+      "offset": 40468,
       "length": 29,
       "value": "\"this_card_number_is_invalid\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40650,
+      "offset": 40609,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40846,
+      "offset": 40805,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 40966,
+      "offset": 40925,
       "length": 16,
       "value": "\"enter_cvv_code\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41097,
+      "offset": 41056,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41626,
+      "offset": 41585,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41796,
+      "offset": 41755,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41837,
+      "offset": 41796,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 42030,
+      "offset": 41989,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43265,
+      "offset": 43224,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43306,
+      "offset": 43265,
       "length": 82,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 43333,
+      "offset": 43292,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43383,
+      "offset": 43342,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 43536,
+      "offset": 43495,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43619,
+      "offset": 43578,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43868,
+      "offset": 43827,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43913,
+      "offset": 43872,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 44086,
+      "offset": 44045,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 44282,
+      "offset": 44241,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 44351,
+      "length": 42,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
       "offset": 44392,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 44433,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 44874,
+      "offset": 44833,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 44919,
+      "offset": 44878,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 45055,
+      "offset": 45014,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 45239,
+      "offset": 45198,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45374,
+      "offset": 45333,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45415,
+      "offset": 45374,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 45873,
+      "offset": 45832,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 45959,
+      "offset": 45918,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46707,
+      "offset": 46666,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46748,
+      "offset": 46707,
       "length": 82,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 46775,
+      "offset": 46734,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 46825,
+      "offset": 46784,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 46994,
+      "offset": 46953,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 47093,
+      "offset": 47052,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 47393,
+      "offset": 47352,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 47438,
+      "offset": 47397,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 47594,
+      "offset": 47553,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 47838,
+      "offset": 47797,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 47972,
+      "length": 42,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
       "offset": 48013,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 48054,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 48549,
+      "offset": 48508,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 48594,
+      "offset": 48553,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 48746,
+      "offset": 48705,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 48978,
+      "offset": 48937,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 49104,
+      "length": 42,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
       "offset": 49145,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 49186,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49717,
+      "offset": 49676,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49762,
+      "offset": 49721,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 49894,
+      "offset": 49853,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 50066,
+      "offset": 50025,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50193,
+      "offset": 50152,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50234,
+      "offset": 50193,
       "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 50973,
+      "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
       "offset": 51014,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 51055,
       "length": 82,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 51082,
+      "offset": 51041,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 51132,
+      "offset": 51091,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 51277,
+      "offset": 51236,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 51377,
+      "offset": 51336,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51557,
+      "offset": 51516,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51602,
+      "offset": 51561,
       "length": 28,
       "value": "\"Response.StatusDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 51734,
+      "offset": 51693,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 51906,
+      "offset": 51865,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 51992,
+      "length": 42,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
       "offset": 52033,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 52074,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52428,
+      "offset": 52387,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52612,
+      "offset": 52571,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 52782,
+      "offset": 52741,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52803,
+      "offset": 52762,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52844,
+      "offset": 52803,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 52972,
+      "offset": 52931,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 53293,
+      "offset": 53252,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 53374,
+      "offset": 53333,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53405,
+      "offset": 53364,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 53468,
+      "offset": 53427,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 53488,
+      "offset": 53447,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53825,
+      "offset": 53784,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53909,
+      "offset": 53868,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 54160,
+      "offset": 54119,
       "length": 31,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 54174,
+      "offset": 54133,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 54190,
+      "offset": 54149,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 54467,
+      "offset": 54426,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 54584,
+      "offset": 54543,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 54700,
+      "offset": 54659,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 54803,
+      "offset": 54762,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55096,
+      "offset": 55055,
       "length": 357,
       "value": "\"{\"paymentData\":\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55175,
+      "offset": 55134,
       "length": 1,
       "value": "\",\"paymentMethod\":{\"displayName\":\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55256,
+      "offset": 55215,
       "length": 1,
       "value": "\"\",\"network\":\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55321,
+      "offset": 55280,
       "length": 1,
       "value": "\"\",\"type\":\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55379,
+      "offset": 55338,
       "length": 1,
       "value": "\"\"},\"transactionIdentifier\":\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55449,
+      "offset": 55408,
       "length": 1,
       "value": "\"\"}\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55548,
+      "offset": 55507,
       "length": 3,
       "value": "\"+\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55559,
+      "offset": 55518,
       "length": 5,
       "value": "\"%2B\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 55725,
+      "offset": 55684,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 55868,
+      "offset": 55827,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 56047,
+      "offset": 56006,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 56088,
+      "offset": 56047,
       "length": 77,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 56119,
+      "offset": 56078,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 56159,
+      "offset": 56118,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 56301,
+      "offset": 56260,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 56595,
+      "offset": 56554,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 56652,
+      "length": 42,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
       "offset": 56693,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 56734,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 57013,
+      "offset": 56972,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 57065,
+      "length": 42,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
       "offset": 57106,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 57147,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 57473,
+      "offset": 57432,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 57582,
+      "offset": 57541,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 57752,
+      "offset": 57711,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 57773,
+      "offset": 57732,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 57814,
+      "offset": 57773,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "Dictionary",
-      "offset": 57930,
+      "offset": 57889,
       "length": 3,
       "value": "[]"
     },
@@ -17841,119 +17841,126 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 3518,
+      "offset": 3496,
+      "length": 40,
+      "value": "\"com.mobilepayment.ios.MobilePaymentSDK\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3568,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 3622,
+      "offset": 3672,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4183,
+      "offset": 4233,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4217,
+      "offset": 4267,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "Dictionary",
-      "offset": 4379,
+      "offset": 4429,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 4683,
+      "offset": 4733,
       "length": 14,
       "value": "\"Unauthorized\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 4774,
+      "offset": 4824,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 4861,
+      "offset": 4911,
       "length": 14,
       "value": "\"Unauthorized\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 4941,
+      "offset": 4991,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 4946,
+      "offset": 4996,
       "length": 11,
       "value": "\"debuginfo\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "Dictionary",
-      "offset": 4984,
+      "offset": 5034,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5075,
+      "offset": 5125,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 5350,
+      "offset": 5400,
       "length": 14,
       "value": "\"Unauthorized\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 5441,
+      "offset": 5491,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 5524,
+      "offset": 5574,
       "length": 14,
       "value": "\"Unauthorized\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "StringLiteral",
-      "offset": 5604,
+      "offset": 5654,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/APIManager\/PYAPIManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5687,
+      "offset": 5737,
       "length": 3,
       "value": "500"
     },
@@ -19101,973 +19108,1008 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27220,
-      "length": 2,
-      "value": "60"
+      "offset": 27420,
+      "length": 1,
+      "value": "5"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 27436,
+      "offset": 27693,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 27639,
+      "offset": 27932,
+      "length": 18,
+      "value": "\"debugDescription\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
+      "kind": "StringLiteral",
+      "offset": 28287,
+      "length": 13,
+      "value": "\"description\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
+      "kind": "StringLiteral",
+      "offset": 28518,
       "length": 18,
       "value": "\"debugDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28087,
+      "offset": 28985,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "Dictionary",
-      "offset": 28431,
+      "offset": 29329,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28609,
+      "offset": 29507,
       "length": 11,
       "value": "\"MessageID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28624,
+      "offset": 29522,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28661,
+      "offset": 29559,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28753,
+      "offset": 29651,
       "length": 11,
       "value": "\"MessageID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28768,
+      "offset": 29666,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28811,
+      "offset": 29709,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28958,
+      "offset": 29856,
       "length": 11,
       "value": "\"MessageID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 28973,
+      "offset": 29871,
       "length": 39,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29011,
+      "offset": 29909,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29072,
+      "offset": 29970,
       "length": 11,
       "value": "\"MessageID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29087,
+      "offset": 29985,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29130,
+      "offset": 30028,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29280,
+      "offset": 30178,
       "length": 24,
       "value": "\"AuthPayerTransactionID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29369,
+      "offset": 30267,
       "length": 15,
       "value": "\"TransactionID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29389,
+      "offset": 30287,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29430,
+      "offset": 30328,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29451,
+      "offset": 30349,
       "length": 12,
       "value": "\"MerchantID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29467,
+      "offset": 30365,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29481,
+      "offset": 30379,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29511,
+      "offset": 30409,
       "length": 8,
       "value": "\"Amount\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29617,
+      "offset": 30515,
       "length": 17,
       "value": "\"CurrencyISOCode\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29638,
+      "offset": 30536,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29650,
+      "offset": 30548,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29721,
+      "offset": 30619,
       "length": 15,
       "value": "\"PaymentMethod\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29740,
+      "offset": 30638,
       "length": 6,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29743,
+      "offset": 30641,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29745,
+      "offset": 30643,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29775,
+      "offset": 30673,
       "length": 17,
       "value": "\"ClientIPaddress\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29835,
+      "offset": 30733,
       "length": 12,
       "value": "\"CardNumber\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29881,
+      "offset": 30779,
       "length": 17,
       "value": "\"ChallengeResult\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 29937,
+      "offset": 30835,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30034,
+      "offset": 30932,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30191,
+      "offset": 31089,
       "length": 15,
       "value": "\"GenerateToken\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30211,
+      "offset": 31109,
       "length": 5,
       "value": "\"Yes\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30264,
+      "offset": 31162,
       "length": 15,
       "value": "\"GenerateToken\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30284,
+      "offset": 31182,
       "length": 4,
       "value": "\"No\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30415,
+      "offset": 31313,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30469,
+      "offset": 31367,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30510,
+      "offset": 31408,
       "length": 16,
       "value": "\"ExpiryDateYear\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30572,
+      "offset": 31470,
       "length": 17,
       "value": "\"ExpiryDateMonth\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30618,
+      "offset": 31516,
       "length": 14,
       "value": "\"SecurityCode\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30660,
+      "offset": 31558,
       "length": 16,
       "value": "\"CardHolderName\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30714,
+      "offset": 31612,
       "length": 20,
       "value": "\"PaymentDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30794,
+      "offset": 31692,
       "length": 9,
       "value": "\"Channel\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30807,
+      "offset": 31705,
       "length": 6,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30810,
+      "offset": 31708,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30812,
+      "offset": 31710,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30898,
+      "offset": 31796,
       "length": 10,
       "value": "\"Quantity\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30912,
+      "offset": 31810,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 30924,
+      "offset": 31822,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31001,
+      "offset": 31899,
       "length": 10,
       "value": "\"Quantity\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31015,
+      "offset": 31913,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31027,
+      "offset": 31925,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31141,
+      "offset": 32039,
       "length": 8,
       "value": "\"ItemID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31153,
+      "offset": 32051,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31163,
+      "offset": 32061,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31203,
+      "offset": 32101,
       "length": 15,
       "value": "\"FrameworkInfo\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31222,
+      "offset": 32120,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31256,
+      "offset": 32154,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31395,
+      "offset": 32293,
       "length": 12,
       "value": "\"SecureHash\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31806,
+      "offset": 32704,
       "length": 21,
       "value": "\"Response.SecureHash\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31843,
+      "offset": 32741,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 31947,
+      "offset": 32845,
       "length": 16,
       "value": "\"Response.Token\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 32004,
+      "offset": 32902,
       "length": 21,
       "value": "\"Response.StatusCode\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 32041,
+      "offset": 32939,
       "length": 7,
       "value": "\"00000\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 32306,
+      "offset": 33204,
       "length": 21,
       "value": "\"Response.StatusCode\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 32343,
+      "offset": 33241,
       "length": 7,
       "value": "\"00015\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 32359,
+      "offset": 33257,
       "length": 21,
       "value": "\"Response.StatusCode\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 32396,
+      "offset": 33294,
       "length": 7,
       "value": "\"00141\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 33351,
+      "offset": 34249,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 33540,
+      "offset": 34438,
       "length": 18,
       "value": "\"debugDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 34222,
+      "offset": 35120,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 34551,
+      "offset": 35449,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 34950,
+      "offset": 35848,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 35144,
+      "offset": 36042,
       "length": 18,
       "value": "\"debugDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 35586,
-      "length": 13,
-      "value": "\"description\""
+      "offset": 36323,
+      "length": 77,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 35780,
-      "length": 18,
-      "value": "\"debugDescription\""
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 36005,
+      "offset": 36362,
       "length": 1,
-      "value": "0"
+      "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36189,
+      "offset": 36399,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36625,
+      "offset": 36532,
+      "length": 13,
+      "value": "\"description\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
+      "kind": "StringLiteral",
+      "offset": 36726,
+      "length": 18,
+      "value": "\"debugDescription\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 36951,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
+      "kind": "StringLiteral",
+      "offset": 37135,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
+      "kind": "StringLiteral",
+      "offset": 37571,
       "length": 5,
       "value": "\"en0\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36642,
+      "offset": 37588,
       "length": 5,
       "value": "\"en2\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36659,
+      "offset": 37605,
       "length": 5,
       "value": "\"en3\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36676,
+      "offset": 37622,
       "length": 5,
       "value": "\"en4\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36693,
+      "offset": 37639,
       "length": 9,
       "value": "\"pdp_ip0\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36714,
+      "offset": 37660,
       "length": 9,
       "value": "\"pdp_ip1\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36735,
+      "offset": 37681,
       "length": 9,
       "value": "\"pdp_ip2\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 36756,
+      "offset": 37702,
       "length": 9,
       "value": "\"pdp_ip3\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36826,
+      "offset": 37772,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 37010,
+      "offset": 37956,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 37212,
+      "offset": 38158,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 37413,
+      "offset": 38359,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 37722,
+      "offset": 38668,
       "length": 11,
       "value": "\"MessageID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 37856,
+      "offset": 38802,
       "length": 15,
       "value": "\"TransactionID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 37924,
+      "offset": 38870,
       "length": 12,
       "value": "\"MerchantID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 37962,
+      "offset": 38908,
       "length": 8,
       "value": "\"Amount\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38004,
+      "offset": 38950,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38015,
+      "offset": 38961,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38044,
+      "offset": 38990,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38055,
+      "offset": 39001,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38072,
+      "offset": 39018,
       "length": 17,
       "value": "\"ClientIPaddress\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38124,
+      "offset": 39070,
       "length": 15,
       "value": "\"PaymentMethod\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38141,
+      "offset": 39087,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38158,
+      "offset": 39104,
       "length": 9,
       "value": "\"Channel\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38169,
+      "offset": 39115,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38186,
+      "offset": 39132,
       "length": 20,
       "value": "\"PaymentDescription\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38240,
+      "offset": 39186,
       "length": 9,
       "value": "\"Version\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38251,
+      "offset": 39197,
       "length": 5,
       "value": "\"1.0\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38287,
+      "offset": 39233,
       "length": 15,
       "value": "\"ApplePayToken\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38350,
+      "offset": 39296,
       "length": 4,
       "value": "\"\\\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38362,
+      "offset": 39308,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38391,
+      "offset": 39337,
       "length": 4,
       "value": "\"\\\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38403,
+      "offset": 39349,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38536,
+      "offset": 39482,
       "length": 15,
       "value": "\"AgreementType\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38632,
+      "offset": 39578,
       "length": 13,
       "value": "\"AgreementID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38790,
+      "offset": 39736,
       "length": 17,
       "value": "\"CurrencyISOCode\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38811,
+      "offset": 39757,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38823,
+      "offset": 39769,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "BooleanLiteral",
-      "offset": 38928,
+      "offset": 39874,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 38999,
+      "offset": 39945,
       "length": 15,
       "value": "\"GenerateToken\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39019,
+      "offset": 39965,
       "length": 5,
       "value": "\"Yes\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39072,
+      "offset": 40018,
       "length": 15,
       "value": "\"GenerateToken\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39092,
+      "offset": 40038,
       "length": 4,
       "value": "\"No\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39200,
+      "offset": 40146,
       "length": 10,
       "value": "\"Quantity\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39214,
+      "offset": 40160,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39226,
+      "offset": 40172,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39327,
+      "offset": 40273,
       "length": 8,
       "value": "\"ItemID\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39339,
+      "offset": 40285,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39349,
+      "offset": 40295,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39478,
+      "offset": 40424,
       "length": 12,
       "value": "\"SecureHash\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39846,
+      "offset": 40792,
       "length": 21,
       "value": "\"Response.SecureHash\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39883,
+      "offset": 40829,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 39971,
+      "offset": 40917,
       "length": 16,
       "value": "\"Response.Token\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 40071,
+      "offset": 41017,
       "length": 21,
       "value": "\"Response.StatusCode\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "StringLiteral",
-      "offset": 40108,
+      "offset": 41054,
       "length": 7,
       "value": "\"00000\""
     },
