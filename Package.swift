@@ -15,6 +15,7 @@ let package = Package(
         ),
     ],
     dependencies: [
+        .package(url: "https://github.com/ios-3ds-sdk/SPM.git", from: "2.5.22")
     ],
     targets: [
         .binaryTarget(

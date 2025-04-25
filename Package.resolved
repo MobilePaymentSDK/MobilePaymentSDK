@@ -1,0 +1,15 @@
+{
+  "originHash" : "3d6b7d61a9911752bbee538d63d174c69c53ffbfef7481a106752d7daa244eab",
+  "pins" : [
+    {
+      "identity" : "spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ios-3ds-sdk/SPM.git",
+      "state" : {
+        "revision" : "33e60e39fb30144be7034c8bb785b886ab6be922",
+        "version" : "2.5.22"
+      }
+    }
+  ],
+  "version" : 3
+}
