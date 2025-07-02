@@ -44,6 +44,7 @@
             "moduleName": "MobilePaymentSDK",
             "declAttributes": [
               "HasInitialValue",
+              "Final",
               "HasStorage",
               "AccessControl"
             ],
@@ -66,6 +67,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC6domainSSvg",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "get"
               },
               {
@@ -90,6 +94,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC6domainSSvs",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "set"
               },
               {
@@ -108,6 +115,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC6domainSSvM",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "_modify"
               }
             ]
@@ -130,6 +140,7 @@
             "moduleName": "MobilePaymentSDK",
             "declAttributes": [
               "HasInitialValue",
+              "Final",
               "HasStorage",
               "AccessControl"
             ],
@@ -152,6 +163,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC4codeSivg",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "get"
               },
               {
@@ -176,6 +190,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC4codeSivs",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "set"
               },
               {
@@ -194,6 +211,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC4codeSivM",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "_modify"
               }
             ]
@@ -229,6 +249,7 @@
             "moduleName": "MobilePaymentSDK",
             "declAttributes": [
               "HasInitialValue",
+              "Final",
               "HasStorage",
               "AccessControl"
             ],
@@ -264,6 +285,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC8userInfoSDys11AnyHashableVypGvg",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "get"
               },
               {
@@ -301,6 +325,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC8userInfoSDys11AnyHashableVypGvs",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "set"
               },
               {
@@ -319,6 +346,9 @@
                 "mangledName": "$s16MobilePaymentSDK0aB5ErrorC8userInfoSDys11AnyHashableVypGvM",
                 "moduleName": "MobilePaymentSDK",
                 "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "_modify"
               }
             ]
@@ -329,6 +359,7 @@
         "mangledName": "$s16MobilePaymentSDK0aB5ErrorC",
         "moduleName": "MobilePaymentSDK",
         "declAttributes": [
+          "Final",
           "AccessControl",
           "ObjC"
         ],
@@ -345,6 +376,13 @@
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           },
           {
             "kind": "Conformance",
@@ -408,13 +446,6 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -3587,13 +3618,6 @@
                 "printedName": "Hashable",
                 "usr": "s:SH",
                 "mangledName": "$sSH"
-              },
-              {
-                "kind": "Conformance",
-                "name": "Sendable",
-                "printedName": "Sendable",
-                "usr": "s:s8SendableP",
-                "mangledName": "$ss8SendableP"
               }
             ]
           },
@@ -10204,210 +10228,210 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 216,
+      "offset": 244,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 246,
+      "offset": 274,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "Dictionary",
-      "offset": 296,
+      "offset": 324,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 393,
+      "offset": 421,
       "length": 23,
       "value": "\"PYResponseErrorDomain\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "Dictionary",
-      "offset": 688,
+      "offset": 716,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2796,
+      "offset": 2825,
       "length": 10,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2816,
+      "offset": 2845,
       "length": 4,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2830,
+      "offset": 2859,
       "length": 3,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2843,
+      "offset": 2872,
       "length": 6,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2859,
+      "offset": 2888,
       "length": 8,
       "value": "5"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2877,
+      "offset": 2906,
       "length": 9,
       "value": "6"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2896,
+      "offset": 2925,
       "length": 4,
       "value": "7"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2910,
+      "offset": 2939,
       "length": 8,
       "value": "8"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2928,
+      "offset": 2957,
       "length": 6,
       "value": "9"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2944,
+      "offset": 2973,
       "length": 4,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 4492,
+      "offset": 4521,
       "length": 7,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 4596,
+      "offset": 4625,
       "length": 9,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 4615,
+      "offset": 4644,
       "length": 4,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 5292,
+      "offset": 5321,
       "length": 6,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 5308,
+      "offset": 5337,
       "length": 7,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 6874,
+      "offset": 6903,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "Array",
-      "offset": 7926,
+      "offset": 7955,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "Array",
-      "offset": 7989,
+      "offset": 8018,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "Array",
-      "offset": 8038,
+      "offset": 8067,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "Array",
-      "offset": 8088,
+      "offset": 8117,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "Dictionary",
-      "offset": 8145,
+      "offset": 8174,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8903,
+      "offset": 8932,
       "length": 36,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8938,
+      "offset": 8967,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 10889,
+      "offset": 10918,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 10924,
+      "offset": 10953,
       "length": 2,
       "value": "\"\""
     },
@@ -10764,14 +10788,14 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 53333,
+      "offset": 53349,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 53364,
+      "offset": 53380,
       "length": 3,
       "value": "\" \""
     },
@@ -10827,65 +10851,72 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11426,
+      "offset": 11415,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11482,
+      "offset": 11471,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11538,
+      "offset": 11527,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11842,
+      "offset": 11831,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11975,
+      "offset": 11964,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12097,
+      "offset": 12086,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12110,
+      "offset": 12099,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12168,
+      "offset": 12157,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12224,
+      "offset": 12213,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
+      "kind": "FloatLiteral",
+      "offset": 12335,
+      "length": 3,
+      "value": "1.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
@@ -10897,175 +10928,168 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12357,
+      "offset": 12359,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12370,
+      "offset": 12371,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12382,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
-      "kind": "FloatLiteral",
-      "offset": 12451,
+      "offset": 12440,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12463,
+      "offset": 12452,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12477,
+      "offset": 12466,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12490,
+      "offset": 12479,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12550,
+      "offset": 12539,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12680,
+      "offset": 12669,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12688,
+      "offset": 12677,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12765,
+      "offset": 12754,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12771,
+      "offset": 12760,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12901,
+      "offset": 12890,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 12960,
+      "offset": 12949,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13019,
+      "offset": 13008,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13076,
+      "offset": 13065,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 13125,
+      "offset": 13114,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 13175,
+      "offset": 13164,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13225,
+      "offset": 13214,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 14642,
+      "offset": 14631,
       "length": 47,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 14687,
+      "offset": 14676,
       "length": 37,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 14714,
+      "offset": 14703,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 14749,
+      "offset": 14738,
       "length": 31,
       "value": "\"<< \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 14760,
+      "offset": 14749,
       "length": 4,
       "value": "\" with \""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/EasyTipView\/EasyTipView.swift",
       "kind": "StringLiteral",
-      "offset": 14776,
+      "offset": 14765,
       "length": 2,
       "value": "\" >>\""
     },
@@ -11093,7 +11117,7 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/CreditCardScanner\/CameraView.swift",
       "kind": "FloatLiteral",
-      "offset": 7574,
+      "offset": 7615,
       "length": 12,
       "value": "0.6180469716"
     },
@@ -11212,21 +11236,21 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19824,
+      "offset": 20042,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28985,
+      "offset": 29483,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38723,
+      "offset": 39534,
       "length": 1,
       "value": "1"
     },
@@ -11688,7 +11712,7 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/Container\/CardDetailsContainer.swift",
       "kind": "IntegerLiteral",
-      "offset": 20273,
+      "offset": 20346,
       "length": 3,
       "value": "500"
     },
@@ -11723,28 +11747,28 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "FloatLiteral",
-      "offset": 13840,
+      "offset": 13843,
       "length": 4,
       "value": "0.05"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "FloatLiteral",
-      "offset": 13926,
+      "offset": 13929,
       "length": 4,
       "value": "0.95"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "BooleanLiteral",
-      "offset": 14011,
+      "offset": 14014,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "BooleanLiteral",
-      "offset": 14094,
+      "offset": 14097,
       "length": 5,
       "value": "false"
     },

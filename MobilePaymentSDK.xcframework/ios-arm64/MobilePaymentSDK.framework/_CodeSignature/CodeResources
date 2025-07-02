@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uD9hTJuo0FbAzwui5x7cSQjBmeg=
+		kW5fLdlGdHtQ6IohcFidk4jxAYw=
 		</data>
 		<key>MobilePaymentExpiryField.nib</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		QvOCY4ZUtkFSkOrtcFdORn3/MHU=
+		C/RgWzfRp4KS1KPhPaeie7yQBB0=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		KQR33GkY0g8CjXuuv8WtJmmuVSM=
+		UzMTWA+T3czA98RCMkjVkhCClWM=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		KQR33GkY0g8CjXuuv8WtJmmuVSM=
+		UzMTWA+T3czA98RCMkjVkhCClWM=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		1iZzscm94gWtz/1vxdmhDpCBBYY=
+		RacI1wIryGOqhR4Ylx3j4ueIvFU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -279,14 +279,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yqlqVA36X/yJHhXec8wgBgCD16u4SJJWXnJzntOg0ZY=
+			BjgWYfBgnBkbbKoguop6jftmsKs6XHlviFu5psbG7rA=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/eM8klcfioXs7Xgi1dPVtqRgHhNh2BwFCjYxFqO3eOs=
+			9S61jrmFwxvPmLD4BFyF+AKzeaS+vclNCnzV/se2lkg=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -300,14 +300,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/eM8klcfioXs7Xgi1dPVtqRgHhNh2BwFCjYxFqO3eOs=
+			9S61jrmFwxvPmLD4BFyF+AKzeaS+vclNCnzV/se2lkg=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n3lUad5cZCLUYb6h9UT/mqT+EsUYOxqHf2OVdtwuaLw=
+			cRDhO+HHCtZkP3E8vdhUb4CncynqxZLPaZlLBl2TFRY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

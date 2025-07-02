@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iftkNL4vgwDgqXd27jp5d3OqlEE=
+		W7r2eUSPEVo3nVS/+awIwnn7bAQ=
 		</data>
 		<key>MobilePaymentExpiryField.nib</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		lnOT0WTzgdpzmNUmX87HrCj0kfc=
+		0PJB4KWEbYoSPI2HJ8rH6Y5ByWQ=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2Kt36UJjikoKjf23KNNWp9S9znM=
+		Rjhq/Cm8Uzkb69WMCkUrbzMYGKY=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,19 +74,19 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2Kt36UJjikoKjf23KNNWp9S9znM=
+		Rjhq/Cm8Uzkb69WMCkUrbzMYGKY=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BVRXwM23FERTu3vMHiRjgJZTGYs=
+		dgEmaQ17LsQ0kXYz8vAQCHEIPa0=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		lnOT0WTzgdpzmNUmX87HrCj0kfc=
+		0PJB4KWEbYoSPI2HJ8rH6Y5ByWQ=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		zvlhKEa9K52Gbvnn0TmhT0uRiNk=
+		jrVsjUkppio4cRjYs9XEnWMnQ0Q=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		zvlhKEa9K52Gbvnn0TmhT0uRiNk=
+		jrVsjUkppio4cRjYs9XEnWMnQ0Q=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LaTBJhGnXY4+qEUs65fO7RyOJM4=
+		9m5Q0nRVZL3AD3WBx4G8gZEjkyA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -299,14 +299,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H5rBpIQHsqy60U4lmdyR/PpLCEIPxXuZc9ADrTDE5aQ=
+			Rf8mpGaPihz/ywcje68QyyXZX2Az3tSs31Gs0laEnTg=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E8tGAOITmZnXHDCkk58jHWVwCV/Lot9J1EoOgNvIRrk=
+			lA/EBzpbneyKjaJFbg0g2k8wxRTKbor9efc9g8vG2jo=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -320,28 +320,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E8tGAOITmZnXHDCkk58jHWVwCV/Lot9J1EoOgNvIRrk=
+			lA/EBzpbneyKjaJFbg0g2k8wxRTKbor9efc9g8vG2jo=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k13Ectr/ZXSyWoz77dD6QTz6bfq8aFgBfZJVeAcxYIs=
+			qKQVSY7gl7yaaCIjfk10zP7gHZ81jLU6TXrO/A7SDnA=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H5rBpIQHsqy60U4lmdyR/PpLCEIPxXuZc9ADrTDE5aQ=
+			Rf8mpGaPihz/ywcje68QyyXZX2Az3tSs31Gs0laEnTg=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h7FK0JyIQGOwGwWDjLUBRbeQNuA1pjoILw8FZBFJl10=
+			5bC1DsPSObUi1X6XbVUXpZxwDljKsQ6QP+V7zTVby/Q=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -355,14 +355,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h7FK0JyIQGOwGwWDjLUBRbeQNuA1pjoILw8FZBFJl10=
+			5bC1DsPSObUi1X6XbVUXpZxwDljKsQ6QP+V7zTVby/Q=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9umbEN4GbtP3W0+sTBOW/fFmH88QX3Z5aIzhEHGTp6A=
+			0/t6YoDAku6PhkO0Skn1J2HrBRfPA234mV9VzPfZMQo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -18,10 +18,10 @@ import Vision
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MobilePaymentError : ObjectiveC.NSObject, Swift.Error {
-  public var domain: Swift.String
-  public var code: Swift.Int
-  public var userInfo: [Swift.AnyHashable : Any]
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class MobilePaymentError : ObjectiveC.NSObject, Swift.Error, @unchecked Swift.Sendable {
+  final public var domain: Swift.String
+  final public var code: Swift.Int
+  final public var userInfo: [Swift.AnyHashable : Any]
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MobilePaymentGatewayResponse : ObjectiveC.NSObject {
@@ -108,7 +108,7 @@ import _SwiftConcurrencyShims
 infix operator =~ : DefaultPrecedence
 infix operator !~ : DefaultPrecedence
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency open class EasyTipView : UIKit.UIView {
-  public enum ArrowPosition : Swift.Sendable {
+  public enum ArrowPosition {
     case any
     case top
     case bottom
