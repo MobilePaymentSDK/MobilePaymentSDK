@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'MobilePaymentSDK-iOS'
-s.version          = '1.0.12'
+s.version          = '1.0.13'
 s.summary          = 'Payment for your App.'
 s.homepage         = 'https://github.com/MobilePaymentSDK/MobilePaymentSDK'
 s.license          = "PROPRIETARY"
