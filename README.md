@@ -10,7 +10,7 @@ Once you have your Swift package set up, adding MobilePaymentSDK as a dependency
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK.git", .upToNextMajor(from: "1.0.14"))
+    .package(url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK.git", .upToNextMajor(from: "1.0.15"))
 ]
 ```
 ### CocoaPods

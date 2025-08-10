@@ -10410,28 +10410,28 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 9230,
+      "offset": 9324,
       "length": 36,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 9265,
+      "offset": 9359,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11216,
+      "offset": 11310,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11251,
+      "offset": 11345,
       "length": 2,
       "value": "\"\""
     },
@@ -11747,28 +11747,28 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "FloatLiteral",
-      "offset": 15392,
+      "offset": 15534,
       "length": 4,
       "value": "0.05"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "FloatLiteral",
-      "offset": 15478,
+      "offset": 15620,
       "length": 4,
       "value": "0.95"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "BooleanLiteral",
-      "offset": 15563,
+      "offset": 15705,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Saved Cards\/CardDetailsHalfStack.swift",
       "kind": "BooleanLiteral",
-      "offset": 15646,
+      "offset": 15788,
       "length": 5,
       "value": "false"
     },
