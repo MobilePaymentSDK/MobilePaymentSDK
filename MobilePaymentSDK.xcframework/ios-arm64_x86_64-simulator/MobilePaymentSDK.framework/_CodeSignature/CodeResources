@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rmk3kijayXWjXcyQRbwDBV33wHU=
+		4bXDiAn0ArrMEGmTqIoktoCkbuI=
 		</data>
 		<key>MobilePaymentExpiryField.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KNuA3Qb47ylij+Wya4TuH5er11Q=
+		Q4kpetQqPZR/OY38cyZElUgGKmU=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KNuA3Qb47ylij+Wya4TuH5er11Q=
+		Q4kpetQqPZR/OY38cyZElUgGKmU=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -299,7 +299,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FTMMvYDUXkpnwFoiYvIb1a4F8ckung3SsWjbMuHm64k=
+			qBwnsch7nrkXgbOL4vJvSYs5Q6w73OkXagGjE9yu9xU=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -334,7 +334,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FTMMvYDUXkpnwFoiYvIb1a4F8ckung3SsWjbMuHm64k=
+			qBwnsch7nrkXgbOL4vJvSYs5Q6w73OkXagGjE9yu9xU=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
