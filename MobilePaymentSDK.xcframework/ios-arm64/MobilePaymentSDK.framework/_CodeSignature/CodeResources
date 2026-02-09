@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		4yat6+ytGxLFV5DAdeKIz3krzPM=
+		P7ezeVbbICucM1eEExIm0kCce8A=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>CardDetailsContainer.nib</key>
 		<data>
-		xQWXsduGHAcoeHFuge4D9Z1PO0g=
+		eUqjXLwdILdMJvXKSNQmxzoJ9D4=
 		</data>
 		<key>CardDetailsHalfStack.nib</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/MobilePaymentSDK-Swift.h</key>
 		<data>
-		hSQmZMfe0OMm9SJsxpPbN5RJEQQ=
+		M+WK7yC4ERtMX8NMHCdOT7xGzBw=
 		</data>
 		<key>Headers/MobilePaymentSDK.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3fWbh+X2m/zejypOPn1B6slPAz0=
+		Zk01EQZYb/Q+pqPKMb9dsgbLvRk=
 		</data>
 		<key>MobilePaymentExpiryField.nib</key>
 		<data>
@@ -62,23 +62,23 @@
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		6ogWOONs8xRKqQeF8E0ktV1ImfA=
+		A2d75HUOPc0WeT9Qih6y3Fo8FfU=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		UzMTWA+T3czA98RCMkjVkhCClWM=
+		Ws2Ihkw0AOZGFNooKT3ankyZq40=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		OD5YPPHK/aTk1OnbxdYfNYfD2zA=
+		G2GmRYDJkEZtIxS5RE2y3X6XnF4=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		UzMTWA+T3czA98RCMkjVkhCClWM=
+		Ws2Ihkw0AOZGFNooKT3ankyZq40=
 		</data>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		yPYLW9eEXDDL0DVkNukU9jYvYR4=
+		z0KtwpeCqm9M9k+kYpN+I73PgeU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>PaymentOptionsCollectionViewCell.nib</key>
 		<data>
-		PSdyO6ywKiHFEImzPFepGnaQtFQ=
+		lV79AeafFz0LC6bCJSYH/hJmhRc=
 		</data>
 		<key>PaymentStatusViewController.nib</key>
 		<data>
@@ -188,7 +188,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1fecdQbDyC7sAmR3SvBjPwtHXx2CU/f3Ko4XEwGhPr0=
+			hoFvp6O/DBjps8oeL2Pcv9qOYr9mg9m4GGsKqV0bSME=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -223,7 +223,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aRbOE/ff+UBGBKZenprNb22aU9RAB/k1qpHzXTSYI6o=
+			GtX+hHzCzrUQWZOWXotnZl5vPk64YgdSa/p1ijs4qSQ=
 			</data>
 		</dict>
 		<key>CardDetailsHalfStack.nib</key>
@@ -244,7 +244,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a0R1x7D/XGLfPU+dxhja7Pnpyd9a+0KUvby+WR6yDpM=
+			GMhSwbyp7OdpGBMi/ceYlZxxx9yo8+X0t4nb1T10HOU=
 			</data>
 		</dict>
 		<key>Headers/MobilePaymentSDK.h</key>
@@ -279,35 +279,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m58fKRVX/9pmdNGcGh8XZCKRqz+asXrNVSrdom4wCYA=
+			7VPYwqJGwzEmGU/7oBsTcL2v4kc8NekXjNuMzEucY3A=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9S61jrmFwxvPmLD4BFyF+AKzeaS+vclNCnzV/se2lkg=
+			OTeC6C9gf/Ru0yfvD81OJogS9Z84/aHSO9eeAKI8yRc=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hej3BJi5QfkbWS0XyGkxB30p9i/eV2dFDTb1LuFwORY=
+			+/nmvNpKQMOMHMbYam7c5TLX83g/LdCNCjCG5QJBs5g=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9S61jrmFwxvPmLD4BFyF+AKzeaS+vclNCnzV/se2lkg=
+			OTeC6C9gf/Ru0yfvD81OJogS9Z84/aHSO9eeAKI8yRc=
 			</data>
 		</dict>
 		<key>Modules/MobilePaymentSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kWmD6Ef2dNHhyt6GbxB6YNlNODhxr5VK/uQOpXoln1w=
+			x8dIB6EmM27zSqBBzypVBoAiu97HHXn0S+w97gmRJIc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -328,7 +328,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xzcOhmak0zR1OQxuiG/Zs9F4KezbXhE6Xo5cK87gCsQ=
+			HqWlRBvFgZEUdT9DJMCdQuZ820Lr3Oq0gAVLj4CUf6M=
 			</data>
 		</dict>
 		<key>PaymentStatusViewController.nib</key>

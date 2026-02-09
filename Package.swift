@@ -15,13 +15,13 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/ios-3ds-sdk/SPM.git", from: "2.5.22")
+        .package(url: "https://github.com/netceteragroup/ios-3ds-sdk-spm.git", from: "2.5.22")
     ],
     targets: [
         .binaryTarget(
             name: "MobilePaymentSDK",
-            url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK/releases/download/1.0.17/MobilePaymentSDK.xcframework.zip",
-            checksum: "182495eca3a75d1329f58c1ebd57a1526e9dcedb3e6f8600b45bf8b6ffd398ad"
+            url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK/releases/download/1.0.18/MobilePaymentSDK.xcframework.zip",
+            checksum: "3048210b1cb4d3f013b4a18bc5b6055b4e38730fce9b5bfd6f460c9343b94d85"
         ),
     ]
 )

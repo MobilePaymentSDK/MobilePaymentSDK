@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
-// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-bare-slash-regex -module-name MobilePaymentSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name MobilePaymentSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import AVFoundation
 import CommonCrypto
 import DeveloperToolsSupport
@@ -26,18 +26,42 @@ import _SwiftConcurrencyShims
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MobilePaymentGatewayResponse : ObjectiveC.NSObject {
   public func hasErrors() -> Swift.Bool
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getApprovalCode() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getErrorCode() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getErrorMessage() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getGatewayRawResponse() -> [Swift.String : Any]?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getGeneratedToken() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getMaskedCardNumber() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getMerchantId() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getPaymentMethod() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getStatus() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getStatusDescription() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getTransactionId() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUserSavedCard() -> Swift.Bool?
+  #endif
   @objc deinit
 }
 @objc public enum MobilePaymentSDKPaymentMethod : Swift.Int {
@@ -52,8 +76,12 @@ import _SwiftConcurrencyShims
   case applePay
   case paypal
   case cash
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(value: Swift.String)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
@@ -62,7 +90,9 @@ import _SwiftConcurrencyShims
 @objc public enum MobilePaymentType : Swift.Int {
   case sale
   case preAuth
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
@@ -76,7 +106,9 @@ import _SwiftConcurrencyShims
   public var rawValue: MobileAgreementType.RawValue {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: MobileAgreementType.RawValue)
+  #endif
 }
 @objc public enum MobilePaymentSupportedLanguage : Swift.Int, Swift.RawRepresentable {
   case english
@@ -86,10 +118,14 @@ import _SwiftConcurrencyShims
   public var rawValue: MobilePaymentSupportedLanguage.RawValue {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: MobilePaymentSupportedLanguage.RawValue)
+  #endif
 }
 @objc public protocol MobilePaymentSDKDelegate {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc func onPaymentSuccess(withTransactionId transactionId: Swift.String, infoDictionary: [Swift.String : Any], tokenizedCard: Swift.String?, shouldStoreCard: Swift.Bool)
+  #endif
   @objc func onPaymentError(_ error: MobilePaymentError, transactionId: Swift.String)
   @objc func onPaymentCancelled(transactionId: Swift.String)
   @objc func didTapDeleteCard(_ withToken: Swift.String)
@@ -97,8 +133,12 @@ import _SwiftConcurrencyShims
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class MobilePaymentSDK : ObjectiveC.NSObject {
   @objc public static var shared: MobilePaymentSDK
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func initializeSDK(withMerchantID merchantID: Swift.String, secretKey key: Swift.String, delegate: (any MobilePaymentSDKDelegate)?, appleMerchantId: Swift.String? = nil) throws
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func showPaymentPage(fromViewController viewController: UIKit.UIViewController, amount: Swift.String, currency: Swift.String, tokens: [Swift.String]?, paymentMethods: [MobilePaymentSDKPaymentMethod], transactionId: Swift.String, paymentType: MobilePaymentType, is3DSAuth: Swift.Bool, shouldTokenizeCard: Swift.Bool, isCardScanningEnabled: Swift.Bool, language: MobilePaymentSupportedLanguage, paymentDescription: Swift.String = "", paymentTitle: Swift.String = "", quantity: Swift.String? = nil, itemId: Swift.String? = nil, agreementId: Swift.String? = nil, agreementType: MobileAgreementType = .none)
+  #endif
   @objc public func getInquiry(forTransactionId transactionId: Swift.String)
   @objc public func requestForPaymentCompletion(forOriginalTransactionId ogTransactionId: Swift.String, forTransactionId transactionId: Swift.String, forIsoCountry countryIso: Swift.String, forAmount amount: Swift.String)
   @objc public func requestForPaymentRefund(forOriginalTransactionId ogTransactionId: Swift.String, forTransactionId transactionId: Swift.String, forIsoCountry countryIso: Swift.String, forAmount amount: Swift.String)
@@ -173,10 +213,12 @@ infix operator !~ : DefaultPrecedence
       get
     }
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open var backgroundColor: UIKit.UIColor? {
     @objc get
     @objc set
   }
+  #endif
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open var description: Swift.String {
     @objc get
   }
@@ -185,7 +227,9 @@ infix operator !~ : DefaultPrecedence
   }
   @_Concurrency.MainActor @preconcurrency public static var globalPreferences: EasyTipView.Preferences
   @objc deinit
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  #endif
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func draw(_ rect: CoreFoundation.CGRect)
 }
 @_hasMissingDesignatedInitializers public class MobilePaymentConstants {
@@ -202,8 +246,10 @@ infix operator !~ : DefaultPrecedence
   @_Concurrency.MainActor @preconcurrency public var cameraViewCreditCardFrameStrokeColor: UIKit.UIColor
   @_Concurrency.MainActor @preconcurrency public var cameraViewMaskLayerColor: UIKit.UIColor
   @_Concurrency.MainActor @preconcurrency public var cameraViewMaskAlpha: CoreFoundation.CGFloat
+  #if compiler(>=5.3) && $NonescapableTypes
   @available(*, unavailable)
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLayoutSubviews()
   @objc deinit
@@ -263,9 +309,15 @@ public class Reachability {
   public var connection: Reachability.Connection {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   required public init(reachabilityRef: SystemConfiguration.SCNetworkReachability, queueQoS: Dispatch.DispatchQoS = .default, targetQueue: Dispatch.DispatchQueue? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   convenience public init?(hostname: Swift.String, queueQoS: Dispatch.DispatchQoS = .default, targetQueue: Dispatch.DispatchQueue? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   convenience public init?(queueQoS: Dispatch.DispatchQoS = .default, targetQueue: Dispatch.DispatchQueue? = nil)
+  #endif
   @objc deinit
 }
 extension Reachability {
