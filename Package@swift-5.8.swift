@@ -20,8 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobilePaymentSDK",
-            url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK/releases/download/1.0.18/MobilePaymentSDK.xcframework.zip",
-            checksum: "3048210b1cb4d3f013b4a18bc5b6055b4e38730fce9b5bfd6f460c9343b94d85"
+            url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK/releases/download/1.0.19/MobilePaymentSDK.xcframework.zip",
+            checksum: "f2d767963d4412cd294abd82430a2f6bc70265299d50b7da09153d8cbc5a48bb"
         ),
     ]
 )
