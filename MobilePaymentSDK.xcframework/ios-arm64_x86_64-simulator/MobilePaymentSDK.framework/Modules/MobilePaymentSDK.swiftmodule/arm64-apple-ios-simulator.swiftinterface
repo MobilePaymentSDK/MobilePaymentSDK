@@ -136,6 +136,7 @@ import _SwiftConcurrencyShims
   #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func initializeSDK(withMerchantID merchantID: Swift.String, secretKey key: Swift.String, delegate: (any MobilePaymentSDKDelegate)?, appleMerchantId: Swift.String? = nil) throws
   #endif
+  public func closePaymentPage()
   #if compiler(>=5.3) && $NonescapableTypes
   public func showPaymentPage(fromViewController viewController: UIKit.UIViewController, amount: Swift.String, currency: Swift.String, tokens: [Swift.String]?, paymentMethods: [MobilePaymentSDKPaymentMethod], transactionId: Swift.String, paymentType: MobilePaymentType, is3DSAuth: Swift.Bool, shouldTokenizeCard: Swift.Bool, isCardScanningEnabled: Swift.Bool, language: MobilePaymentSupportedLanguage, paymentDescription: Swift.String = "", paymentTitle: Swift.String = "", quantity: Swift.String? = nil, itemId: Swift.String? = nil, agreementId: Swift.String? = nil, agreementType: MobileAgreementType = .none)
   #endif

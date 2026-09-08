@@ -10,11 +10,11 @@ Once you have your Swift package set up, adding MobilePaymentSDK as a dependency
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK.git", .upToNextMajor(from: "1.0.21"))
+    .package(url: "https://github.com/MobilePaymentSDK/MobilePaymentSDK.git", .upToNextMajor(from: "1.0.22"))
 ]
 ```
 ### CocoaPods
-
+#DEPRECATED
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate MobilePaymentSDK-iOS into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby

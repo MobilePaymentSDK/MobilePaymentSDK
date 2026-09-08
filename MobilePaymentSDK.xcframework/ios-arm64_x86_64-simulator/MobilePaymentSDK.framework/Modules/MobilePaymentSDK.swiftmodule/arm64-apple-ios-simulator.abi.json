@@ -2707,6 +2707,26 @@
           },
           {
             "kind": "Function",
+            "name": "closePaymentPage",
+            "printedName": "closePaymentPage()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16MobilePaymentSDKAAC05closeB4PageyyF",
+            "mangledName": "$s16MobilePaymentSDKAAC05closeB4PageyyF",
+            "moduleName": "MobilePaymentSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "showPaymentPage",
             "printedName": "showPaymentPage(fromViewController:amount:currency:tokens:paymentMethods:transactionId:paymentType:is3DSAuth:shouldTokenizeCard:isCardScanningEnabled:language:paymentDescription:paymentTitle:quantity:itemId:agreementId:agreementType:)",
             "children": [
@@ -10459,16 +10479,23 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11310,
+      "offset": 12138,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11345,
+      "offset": 12173,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/MobilePaymentSDK.swift",
+      "kind": "Array",
+      "offset": 64254,
+      "length": 229,
+      "value": "[\"CardNumber\", \"ExpiryDateMonth\", \"ExpiryDateYear\", \"ExpiryDate\", \"SecurityCode\", \"CVV\", \"CVV2\", \"SecureHash\", \"Response.SecureHash\", \"Token\", \"CardToken\", \"AuthenticationToken\", \"SecretKey\"]"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/Extensions.swift",
@@ -11270,22 +11297,29 @@
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
+      "kind": "Array",
+      "offset": 1438,
+      "length": 18,
+      "value": "[\"2.2.0\", \"2.1.0\"]"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21788,
+      "offset": 23059,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31647,
+      "offset": 32769,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/EnterCardDetailsDataController.swift",
       "kind": "IntegerLiteral",
-      "offset": 41966,
+      "offset": 43102,
       "length": 1,
       "value": "1"
     },
@@ -11543,157 +11577,171 @@
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2614,
+      "length": 4,
+      "value": "1022"
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2652,
+      "offset": 2709,
       "length": 64,
       "value": "\"Error Initializing SDK, Verify your merchant ID and Secret Key\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2773,
+      "offset": 2830,
       "length": 28,
       "value": "\"Error Initializing 3ds sdk\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2842,
+      "offset": 2899,
       "length": 33,
       "value": "\"No Internet Connection detected\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2936,
+      "offset": 2993,
       "length": 65,
       "value": "\"Error Reading file for excluded keys for secure hash generation\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3054,
+      "offset": 3111,
       "length": 56,
       "value": "\"Error Reading file for Keys for secure hash generation\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3163,
+      "offset": 3220,
       "length": 28,
       "value": "\"Error authenticating payer\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3246,
+      "offset": 3303,
       "length": 23,
       "value": "\"Invalid Currency Code\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3312,
+      "offset": 3369,
       "length": 34,
       "value": "\"Error completing Inquiry request\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3388,
+      "offset": 3445,
       "length": 33,
       "value": "\"Error completing Refund request\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3467,
+      "offset": 3524,
       "length": 29,
       "value": "\"Error in Completion request\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3540,
+      "offset": 3597,
       "length": 26,
       "value": "\"Error in Approve Request\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3615,
+      "offset": 3672,
       "length": 25,
       "value": "\"Agreement ID is Missing\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3691,
+      "offset": 3748,
       "length": 27,
       "value": "\"Agreement Type is Missing\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3764,
+      "offset": 3821,
       "length": 28,
       "value": "\"Error fetching auth params\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3837,
+      "offset": 3894,
       "length": 32,
       "value": "\"Error fetching threeds version\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3920,
+      "offset": 3977,
       "length": 25,
       "value": "\"Error in transaction Id\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3996,
+      "offset": 4053,
       "length": 35,
       "value": "\"Error Reading key\/value from file\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4079,
+      "offset": 4136,
       "length": 31,
       "value": "\"Error Reading value from file\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4158,
+      "offset": 4215,
       "length": 16,
       "value": "\"File not found\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4233,
+      "offset": 4290,
       "length": 40,
       "value": "\"Amount must be in English numbers only\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4320,
+      "offset": 4377,
       "length": 26,
       "value": "\"Amount must not be empty\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4411,
+      "offset": 4468,
       "length": 72,
       "value": "\"Could not load tokenized cards, please check if cards token are right.\""
+    },
+    {
+      "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/Common\/MobilePaymentConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4601,
+      "length": 127,
+      "value": "\"Response integrity check failed. The SecureHash of the gateway response is invalid, the response may have been tampered with.\""
     },
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Cells\/CardCollectionViewCell.swift",
@@ -11747,7 +11795,7 @@
     {
       "filePath": "\/Users\/zabbas\/Downloads\/PayoneIOSsdk copy\/PayOneSDK\/MobilePaymentSDK\/Project\/PaymentDetialsEnter\/Card Details\/Container\/CardDetailsContainer.swift",
       "kind": "IntegerLiteral",
-      "offset": 21627,
+      "offset": 21571,
       "length": 3,
       "value": "500"
     },
