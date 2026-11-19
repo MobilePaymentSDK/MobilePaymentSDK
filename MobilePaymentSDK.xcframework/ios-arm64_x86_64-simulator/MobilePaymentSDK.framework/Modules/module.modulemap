@@ -7,5 +7,4 @@ framework module MobilePaymentSDK {
 
 module MobilePaymentSDK.Swift {
   header "MobilePaymentSDK-Swift.h"
-  requires objc
 }
